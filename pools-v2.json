@@ -18,5 +18,16 @@
     ],
     "tags": [],
     "link": "https://www.viabtc.com/"
+  },
+  {
+    "id": 3,
+    "name": "Binance Pool",
+    "addresses": [
+      "LE4ZQsM8FgnP1zL1ALnZrAV5GpWJR1vEGP"
+    ],
+    "tags": [
+      "/Binance-Pool/"
+    ],
+    "link": "https://pool.binance.com/"
   }
 ]
