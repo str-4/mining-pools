@@ -14,7 +14,9 @@
     "id": 2,
     "name": "ViaBTC",
     "addresses": [
-      "L64Y1gteXGRcumetrUE79nHkhzFgFnATzS"
+      "L64Y1gteXGRcumetrUE79nHkhzFgFnATzS",
+      "L7gfaZS1YZvgk6v2XNjRVdjseCkLnHt3Pi",
+      "L4tLE3zEB8ehexdRDWth6vzbr9QVUWunZ3"
     ],
     "tags": [],
     "link": "https://www.viabtc.com/"
@@ -29,5 +31,37 @@
       "/Binance-Pool/"
     ],
     "link": "https://pool.binance.com/"
+  },
+  {
+    "id": 4,
+    "name": "Hash-Hut",
+    "addresses": [
+      "KwKaQaWCYidYSYrASCwziUMdGmCTYqH5LU"
+    ],
+    "link": "https://hash-hut.net/"
+  },
+  {
+    "id": 5,
+    "name": "okminer",
+    "addresses": [
+      "KvWogtNDLKV9eSJmbAo5V1WspMNdSJVPno"
+    ],
+    "link": "https://www1.okminer.com/"
+  },
+  {
+    "id": 6,
+    "name": "F2Pool",
+    "addresses": [
+      "L86JMZLJn16Mi3NsLn3kxgeM5nDsSivCc3"
+    ],
+    "link": "https://www.f2pool.com/"
+  },
+  {
+    "id": 7,
+    "name": "Antpool",
+    "addresses": [
+      "Kw92BFbDdfAXxS2DwjxvyHGuZGBD4ZtiQ4"
+    ],
+    "link": "https://www.antpool.com/home"
   }
 ]
